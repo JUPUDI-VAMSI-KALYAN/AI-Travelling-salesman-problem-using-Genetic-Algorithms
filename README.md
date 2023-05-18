@@ -3,7 +3,11 @@
 
 
 
-https://github.com/JUPUDI-VAMSI-KALYAN/AI-Travelling-salesman-problem-using-Genetic-Algorithms/assets/37042639/66861d90-02b9-481e-9469-6a7fcbe7c066
 
 
-![watch the video](https://github.com/JUPUDI-VAMSI-KALYAN/AI-Travelling-salesman-problem-using-Genetic-Algorithms/assets/37042639/5af4e950-d96b-4b35-b9f3-fe20d79fcbf3)
+https://github.com/JUPUDI-VAMSI-KALYAN/AI-Travelling-salesman-problem-using-Genetic-Algorithms/assets/37042639/6961b2a6-b5f4-457c-b5d1-1a7c5adb9efe
+
+
+
+
+![watch the video](https://github.com/JUPUDI-VAMSI-KALYAN/AI-Travelling-salesman-problem-using-Genetic-Algorithms/assets/37042639/6961b2a6-b5f4-457c-b5d1-1a7c5adb9efe)
